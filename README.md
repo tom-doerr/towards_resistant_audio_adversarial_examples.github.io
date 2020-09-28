@@ -2,7 +2,7 @@
 <a href="https://doi.org/10.5281/zenodo.231328"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.231328.svg" alt="DOI"></a>
 
 View it in action here:
-https://andrewgyork.github.io/publication_template/
+https://tom-doerr.github.io/website_towards_resistant_audio_adversarial_examples/
 
 This repository is intended to hold a (mostly) self-contained scientific publication. It contains:
 
